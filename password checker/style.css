@@ -1,0 +1,29 @@
+#outerbox{
+    border:2px solid red;
+    text-align: center;
+    color:green;
+    width: 700px;
+    height:300px;
+}
+
+#pass{
+    padding:15px;
+    width:300px
+}
+.prograssbar{
+    width:500px;
+    height:20px;
+    background-color: blue;
+    margin-top:30px;
+    position:relative;
+    left:120px;
+    border-radius:10px;
+}
+#mybutton{
+    margin-top:30px;
+    width:70px;
+    padding:5px;
+    background-color: black;
+    border-radius:10px;
+    color:white;
+}
